@@ -25,6 +25,8 @@ There are 2 modes of operation: finder and matcher.
 
 ### Finder
 
+![image](samples/tmp.png)
+
 ```
 python3 finder.py
 ```
@@ -43,6 +45,8 @@ images/
       target_image.png
 ```
 ### Matcher
+
+![image](samples/grid1.png)
 
 ```
 python3 matcher.py
